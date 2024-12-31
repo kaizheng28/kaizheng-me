@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Kai Zheng
+title: 郑恺
 
 # Name pronunciation (optional)
-name_pronunciation: 郑恺
+name_pronunciation: Kai Zheng
 
 # Full name (for SEO)
 first_name: Kai 
@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kaizheng28@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/kaizheng28
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kaizheng0528/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3EfyiU0AAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
   - Wireless sensing and communication
@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Electrical and Computer Engineering
     institution: University of California San Diego
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2020-09-01
+    date_end: 2025-06-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Electrical Engineering 
     institution: Fudan University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2011-09-01
+    date_end: 2015-12-31
     summary: |
       GPA: 3.4/4.0
       
