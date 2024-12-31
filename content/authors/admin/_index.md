@@ -46,10 +46,10 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-interests:
-  - Wireless sensing and communication
-  - mmWave software-defined radio
-  - Low-power IoT systems
+# interests:
+#   - Wireless sensing and communication
+#   - mmWave software-defined radio
+#   - Low-power IoT systems
 
 # education:
 #   - area: PhD Electrical and Computer Engineering

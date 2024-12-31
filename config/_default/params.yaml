@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Researcher'
+    org_name: 'UC San Diego'
+    description: 'Kai Zheng wireless communication and sensing'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
