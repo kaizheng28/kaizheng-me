@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 郑恺
+title: Kai Zheng
 
 # Name pronunciation (optional)
-name_pronunciation: Kai Zheng
+name_pronunciation: 郑恺
 
 # Full name (for SEO)
 first_name: Kai 
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/kaizheng28
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/kaizheng0528/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=3EfyiU0AAAAJ&hl=en
   - icon: academicons/orcid
