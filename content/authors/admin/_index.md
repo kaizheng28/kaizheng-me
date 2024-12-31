@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郑恺
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Kai Zheng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kai 
+last_name: Zheng
 
 # Status emoji
 status:
@@ -20,40 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Graduate Student Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UC San Diego
+    url: https://ucsd.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kaizheng28@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/kaizheng28
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=3EfyiU0AAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless sensing and communication
+  - mmWave software-defined radio
+  - Low-power IoT systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Electrical and Computer Engineering
+    institution: University of California San Diego
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,7 +61,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MS Computer Engineering
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I'm Kai Zheng, a 5th year Ph.D. candidate at University of California San Diego, advised by Professor Xinyu Zhang. Before pursuing my Ph.D. degree, I worked as an engineer for Pi-Radio Inc., a spin-off from NYU WIRELESS. I received my master's degree from New York University and my bachelors' degree from Fudan University.
