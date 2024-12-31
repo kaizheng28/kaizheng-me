@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 郑恺
+title: Kai Zheng 郑恺 
 
 # Name pronunciation (optional)
-name_pronunciation: Kai Zheng
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kai 
@@ -51,38 +51,38 @@ interests:
   - mmWave software-defined radio
   - Low-power IoT systems
 
-education:
-  - area: PhD Electrical and Computer Engineering
-    institution: University of California San Diego
-    date_start: 2020-09-01
-    date_end: 2025-06-30
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MS Computer Engineering
-    institution: New York University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+# education:
+#   - area: PhD Electrical and Computer Engineering
+#     institution: University of California San Diego
+#     date_start: 2020-09-01
+#     date_end: 2025-06-30
+#     summary: |
+#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com'
+#   - area: MS Computer Engineering
+#     institution: New York University
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Electrical Engineering 
-    institution: Fudan University
-    date_start: 2011-09-01
-    date_end: 2015-12-31
-    summary: |
-      GPA: 3.4/4.0
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - area: BSc Electrical Engineering 
+#     institution: Fudan University
+#     date_start: 2011-09-01
+#     date_end: 2015-12-31
+#     summary: |
+#       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
